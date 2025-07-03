@@ -24,3 +24,4 @@ Major damage: 12.1% │ Total destruction: 6.9%
 Слабая сегментация мелких объектов (бассейны, автомобили)
 
 Тени деревьев влияют на классификацию дорог
+![vis_10808](https://github.com/user-attachments/assets/426fe376-0e1d-4394-8f55-b531860306d7)
